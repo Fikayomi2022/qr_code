@@ -1,0 +1,31 @@
+.body {
+    background-color:  hsl(212, 45%, 89%);
+    text-align:  center;
+}
+
+.div1 {
+    background-color:  hsl(0, 0%, 100%);
+    width: 250px;
+    height: 380px;
+    margin-left: 550px;
+    margin-right: 150px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+img {
+    width: 218px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 17px;
+    font-family: 'Outfit', sans-serif;;
+}
+
+h3 {
+    font-size: 13px;
+    color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
